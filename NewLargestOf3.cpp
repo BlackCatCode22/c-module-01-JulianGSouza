@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Welcome to my adding three ints program." << endl;
+    cout << "Welcome to my largest of three ints program." << endl;
 
     int num1,num2,num3,sumOfNums;
     num1 = 0;
